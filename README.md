@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DarisMathew
+- 👋 Hi, I’m @DarisMathew, a Masters student in Software Engineering and would like to share my ideas and thoughts on progrmaing as well as gather knowledge and info
 - 👀 I’m interested in Gaming but in the Software area I like developing applications irrespective of the Domain or area of work
 - 🌱 I’m currently learning Pyhton & Web Development
 
